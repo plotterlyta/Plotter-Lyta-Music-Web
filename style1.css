@@ -1,0 +1,19 @@
+.click-button {
+padding: 0px;
+width: 50%;
+  cursor: pointer;
+  line-height: 40px;
+  background-color: #000000;
+  border: 8px solid red;
+  border-radius: 25px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  display: block;
+  margin: auto;
+}
+  
+  }
+.prank {
+   text-align: centre;
+}
